@@ -1,20 +1,34 @@
 {
   "posts": [
-    {
-      "id": 1,
-    "code": "00",
-    "message": "Giao dich thanh cong.",
-    "masterMerchantCode": "970437",
-    "merchantCode": "0314438965",
-    "terminalID": "ILOGIC01",
-    "orderCode ": "317",
-    "payDate": " 20200507103449",
-    "qrTrace": "000134800",
-    "bankCode": "VIETCOMBANK",
-    "debitAmount": 18500,
-    "checkSum": "83299B0E97CBCF411C22C51AA141E427"
-    }
-  ],
+ {
+ "bookId":"1",
+ "name":"Harry Potter and The Prisoner of Azkaban",
+ "price":"INR 700.00",
+ "inStock":"52"
+ },
+
+ {
+ "bookId":"2",
+ "name":"Hamlet",
+ "price":"INR 1700.00",
+ "inStock":"47"
+ },
+
+ {
+ "bookId":"3",
+ "name":"Willy Wonka and His Chocolate Factory",
+ "price":"INR 500.00",
+ "inStock":"48"
+ },
+
+ {
+ "bookId":"4",
+ "name":"Before I Fall",
+ "price":"INR 750.00",
+ "inStock":"49"
+ }
+
+],
   "profile": {
     "name": "typicode"
   }
